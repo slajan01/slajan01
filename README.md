@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jan Slavík
-- 👀 I’m interested in coding/programming/objected oriented programming
+- 👀 I’m interested in coding/(objected-oriented)programming/deep learning(tenserflow,keras)
 - 🌱 I’m currently learning Python, Machine learning and working for NGO!
 - 📫 How to reach me: LinkedIN: www.linkedin.com/in/jan-slavík-1a76ab140
 
