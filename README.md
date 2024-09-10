@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jan Slavík
-- 👀 I’m interested in coding/(objected-oriented)programming/deep learning(tenserflow,keras)
-- 🌱 I’m currently learning Python, Machine learning and working for NGO!
+- 👋 Hi, I’m Honza Slavík
+- 👀 I’m interested in programming/designing models for deep learning
+- 🌱 I´ve completed courses in Python Programming, Machine Learning and Data Analysis
 - 📫 How to reach me: jan.slavik.ostrava@gmail.com
