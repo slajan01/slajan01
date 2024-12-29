@@ -14,6 +14,8 @@
 
 🌐 You can check out my ML projects here: https://github.com/slajan01
 
+🤖 Live demo of my chatbot: https://deep-learning-modules-website.onrender.com/chatbot / Code for my chatbot: https://github.com/slajan01/Deep-Learning-Modules-Website
+
 📚 I am committed to continuously learning and improving my skills. I believe that my interest in machine learning and technology in general will allow me to quickly adapt to new challenges and bring value to your company.
 
 🎯 My goal is to become an expert in machine learning and contribute to the development of innovative solutions that will have a real impact on your products and services. At the same time, I will feel confident in applying new knowledge in the field of machine learning.
